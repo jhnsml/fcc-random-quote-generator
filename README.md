@@ -7,4 +7,4 @@ __Objective__: Build an app that is functionally similar to this [Pen](https://c
 [FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine)
 
 
-[Live Version]()
+[Live Version](https://random-quote-rfcc.netlify.app/)
